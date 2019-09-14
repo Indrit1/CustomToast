@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomToast</string>
+    <string name="btn_name">Show Toast</string>
+    <string name="message">No internet connection</string>
+</resources>
